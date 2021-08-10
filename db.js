@@ -1,3 +1,3 @@
 module.exports = {
-    'url': 'mongodb+srv://babar:test1234@cluster0.ijqpa.mongodb.net/node-todo?retryWrites=true&w=majority'
+    'url': 'mongodb+srv://name:password@cluster0.ijqpa.mongodb.net/project_name?retryWrites=true&w=majority'
 }
